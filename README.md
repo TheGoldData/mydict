@@ -30,6 +30,13 @@ java -jar mydict.war
 关于更多内容，可以查看金色数据官网， https://golddata.100shouhou.com
 
 
+# 开源地址
+
+https://gitee.com/golddata/mydict
+
+
+https://github.com/TheGoldData/mydict
+
 # 许可证
 
 MyDict 采用[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) 协议。
